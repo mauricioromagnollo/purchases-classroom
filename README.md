@@ -1,1 +1,1 @@
-# purchase-classroom
+# purchases-classroom
